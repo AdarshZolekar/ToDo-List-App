@@ -1,6 +1,6 @@
 # ToDo List App
 
-A clean, modern and user-friendly todo list web application built using HTML, CSS and JavaScript.
+> A clean, modern and user-friendly todo list web application built using HTML, CSS and JavaScript.
 
 ---
 
