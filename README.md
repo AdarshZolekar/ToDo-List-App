@@ -42,7 +42,7 @@
    
 ---
 
-## File Structure
+## File Structure 
 
 ```
 todo-list/
