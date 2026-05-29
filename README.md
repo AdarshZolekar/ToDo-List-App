@@ -53,7 +53,7 @@ todo-list/
 
 ---
 
-## Sample Data
+## Sample Data 
 
 The application comes with 5 sample tasks to get you started :
 - Learn Git basics
